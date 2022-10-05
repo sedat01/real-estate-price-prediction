@@ -1,11 +1,10 @@
-import requests
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 from bs4 import BeautifulSoup
 
-s = requests.Session()
+
 driver = webdriver.Chrome(executable_path=r"C:\chromedriver.exe")
 driver.implicitly_wait(10)
 driver.maximize_window()
@@ -30,6 +29,4 @@ for i in range(10):
                 print(current_property['href'], file=f)
             except:
                 print("None")
-
-
-
+                
