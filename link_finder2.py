@@ -32,26 +32,24 @@ def  scrape_links():
         property_list = soup.find_all('li', class_='search-results__item')
         print(f"Page {page}",file=f)
         for house in range(len(property_list)):
-            print(house)
-            
             try:
                 current_property = property_list[house].find('a',href=True)
-                print(current_property)
-                url_list.append(current_property['href'])
-                print(current_property["href"], file=f)
-                
+                if "immoweb" in current_property["href"]:
+                    url_list.append(current_property['href'])
+                    print(current_property["href"], file=f)
+                    
             except:
-                print("None")
+                continue
                 
     
         
 
-def main():                    
-    for page in range(pages+1):
-        url = f"https://www.immoweb.be/en/search/house/for-sale?countries=BE&page={page}&orderBy=relevance"
-        print(url)
-        page_source = open_page(url)
-        scrape_links()
-        
-    #print(url_list)
+                  
+for page in range(pages+1):
+    url = f"https://www.immoweb.be/en/search/house/for-sale?countries=BE&page={page}&orderBy=relevance"
+    #print(url)
+    page_source = open_page(url)
+    scrape_links()
+    
+#print(url_list)
 
