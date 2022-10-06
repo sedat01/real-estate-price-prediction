@@ -8,7 +8,7 @@ with open("./links.txt","r",encoding='utf-8') as f:
     url_list = f.readlines()
 data_all = {}
     
-for link in range(3):
+for link in range(len(url_list)):
     if len(url_list[link])<50:
         continue
     else:
@@ -50,12 +50,8 @@ for link in range(3):
             
     data_all [property_id] = data
     
-    print(data_all)
+    df = pd.DataFrame.from_dict(data_all, orient="index")
+    with open("dataframe.txt","w+",encoding="utf-8") as f:
+        print(df,file=f)
     
-    
-    
-
-
-
-
-print(dF)
+df.to_csv("try_csv.csv")
