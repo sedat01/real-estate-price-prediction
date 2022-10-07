@@ -1,8 +1,0 @@
-                  Neighbourhood or locality Construction year Number of floors Building condition Covered parking spaces  ... Monthly charges Cadastral income      Agent's name Outdoor parking spaces Intercom
-9160612  Zone Centre Province du Luxembourg              2021                2             As new                      1  ...             NaN              NaN               NaN                    NaN      NaN
-9160613  Zone Centre Province du Luxembourg              2021                2             As new                     27  ...             NaN              NaN               NaN                    NaN      NaN
-9160808        METTEWIE - PARC DU SCHEUTBOS              2012                8             As new                      1  ...     € 200 200 €   € 1,425 1425 €  Cédric Mathonnet                    NaN      NaN
-9160880                                 NaN               NaN                3                NaN                     32  ...             NaN              NaN               NaN                     10      Yes
-9160881                                 NaN               NaN                3                NaN                     32  ...             NaN              NaN               NaN                     10      Yes
-
-[5 rows x 58 columns]
