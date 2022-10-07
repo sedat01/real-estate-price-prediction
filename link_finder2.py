@@ -18,14 +18,15 @@ start = time.perf_counter()
             
 def open_page(url):  
         driver = webdriver.Chrome(executable_path=r"C:\chromedriver.exe")
-        driver.maximize_window()
+        driver.minimize_window()
         driver.get(url)
         driver.implicitly_wait(10)
         try:
             elem = driver.find_element(By.XPATH,'//*[@id="uc-btn-accept-banner"]')
             elem.click()
             pg_code = driver.page_source
-            scrape_links(pg_code,url)
+            #scrape_links(pg_code,url)
+            return(pg_code)
         except:
             pass
 
@@ -54,6 +55,6 @@ for page in range(1,pages+1):
     #print(url)
     #open_page(url)
     
-Parallel(n_jobs=-1)(delayed(open_page)(url) for url in urls)
+Parallel(n_jobs=-1,prefer="threads")(delayed(open_page)(url) for url in urls)
 
 print(time.perf_counter()-start)

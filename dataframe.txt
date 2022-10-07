@@ -1,33 +1,8 @@
-                  Available as of                Available date Neighbourhood or locality Covered parking spaces  ... How many fireplaces? Garden   Bedroom 5 surface Professional space surface
-10154577              At delivery       June 30 2024 - 12:00 AM           Brabant Flamand                      1  ...                  NaN    NaN                 NaN                        NaN
-10152278   After signing the deed                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10151895   After signing the deed                           NaN           Hannut et 5 kms                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10153006              At delivery                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10151862              At delivery   February 28 2025 - 12:00 AM         Gent en omstreken                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10153222              At delivery                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10153226              At delivery                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10149128   After signing the deed    December 1 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10150355   After signing the deed                           NaN                       NaN                      1  ...                  NaN    NaN                 NaN                        NaN
-10150923            To be defined   September 1 2023 - 12:00 AM         Omgeving Kraainem                      1  ...                  NaN    NaN                 NaN                        NaN
-10147032   After signing the deed   November 12 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10146903   After signing the deed  September 15 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10146862   After signing the deed                           NaN         Omgeving Kraainem                      1  ...                  NaN    NaN                 NaN                        NaN
-9935270    After signing the deed                           NaN                       NaN                      2  ...                  NaN    NaN                 NaN                        NaN
-10154574   After signing the deed      August 9 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10154573   After signing the deed      August 9 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10146116              At delivery                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10145147   After signing the deed     January 1 2023 - 12:00 AM                       NaN                      1  ...                  NaN    NaN                 NaN                        NaN
-10145907  Depending on the tenant                           NaN                  Brussels                    NaN  ...                  NaN    NaN                 NaN                        NaN
-10154065   After signing the deed                           NaN                       NaN                    NaN  ...                    1    Yes                 NaN                        NaN
-10152352   After signing the deed                           NaN                       NaN                      2  ...                  NaN    NaN  13m² square meters                        NaN
-10152812            To be defined     January 1 2023 - 12:00 AM     Est de Bruxelles + VL                      1  ...                  NaN    NaN                 NaN                        NaN
-10152241            To be defined                           NaN                       NaN                      3  ...                    1    NaN                 NaN                        NaN
-10143254   After signing the deed                           NaN    Zone Province de Liège                      1  ...                  NaN    NaN                 NaN                        NaN
-10143136   After signing the deed   December 20 2022 - 12:00 AM                       NaN                    NaN  ...                  NaN    NaN  10m² square meters                        NaN
-10142887   After signing the deed     January 1 2023 - 12:00 AM                       NaN                      1  ...                  NaN    NaN                 NaN                        NaN
-10067960              At delivery                           NaN                       NaN                      1  ...                  NaN    NaN                 NaN                        NaN
-10143366            To be defined  September 30 2023 - 12:00 AM               Basse Meuse                      1  ...                  NaN    NaN  13m² square meters        167m² square meters
-10149679   After signing the deed                           NaN                       NaN                      2  ...                  NaN    NaN                 NaN                        NaN
-10153840                      NaN                           NaN                       NaN                    NaN  ...                  NaN    NaN                 NaN                        NaN
+                  Neighbourhood or locality Construction year Number of floors Building condition Covered parking spaces  ... Monthly charges Cadastral income      Agent's name Outdoor parking spaces Intercom
+9160612  Zone Centre Province du Luxembourg              2021                2             As new                      1  ...             NaN              NaN               NaN                    NaN      NaN
+9160613  Zone Centre Province du Luxembourg              2021                2             As new                     27  ...             NaN              NaN               NaN                    NaN      NaN
+9160808        METTEWIE - PARC DU SCHEUTBOS              2012                8             As new                      1  ...     € 200 200 €   € 1,425 1425 €  Cédric Mathonnet                    NaN      NaN
+9160880                                 NaN               NaN                3                NaN                     32  ...             NaN              NaN               NaN                     10      Yes
+9160881                                 NaN               NaN                3                NaN                     32  ...             NaN              NaN               NaN                     10      Yes
 
-[30 rows x 91 columns]
+[5 rows x 58 columns]
