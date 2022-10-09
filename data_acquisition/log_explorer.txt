@@ -1,0 +1,124 @@
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/aalst/9300/9314557
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aalst/9300/9314557
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/aalst/9300/9314557
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9315421
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9315421
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9315421
+
+Data error:
+
+Data error:
+hteren/3530/9315049
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/angers/49000/9315283
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/angers/49000/9315283
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/angers/49000/9315283
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/oosterzele/9860/9315097
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oosterzele/9860/9315097
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/oosterzele/9860/9315097
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/nijlen/2560/9315557
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/nijlen/2560/9315557
+
+Exception getting property id url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/nijlen/2560/9315557
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315563
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315563
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315563
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315567
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315567
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315567
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315564
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315564
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315564
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315561
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315561
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315561
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315562
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315562
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315562
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315559
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315559
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315559
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/tielt/8700/9315697
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/tielt/8700/9315697
+
+Exception getting property id url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/tielt/8700/9315697
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315566
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315566
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nijlen/2560/9315566
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/tielt/8700/9315698
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tielt/8700/9315698
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/tielt/8700/9315698
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/bras/6800/9315650
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bras/6800/9315650
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/bras/6800/9315650
+
+Data error:
+Exception retrieving page source url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
+
+Data error:
