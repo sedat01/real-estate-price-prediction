@@ -3,20 +3,11 @@ from bs4 import BeautifulSoup
 
 session = requests.Session()
 headers = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    "accept-encoding": "gzip, deflate, br",
-    "accept-language": "bg-BG,bg;q=0.9,en;q=0.8,nl;q=0.7,de;q=0.6",
-    "cookie": "gcl_au=1.1.378591947.1664638719; _hjSessionUser_927717=eyJpZCI6ImUyZjk5ZGY3LTk3ODYtNWUxZC1hNzM1LTU5NzZhMWRiYThiMiIsImNyZWF0ZWQiOjE2NjQ2Mzg3MTkyMjQsImV4aXN0aW5nIjp0cnVlfQ==; emails_with_subscriptions_set=eyJpdiI6IlAvTkNEdVdWZEdML1hVckc3Qnp2WGc9PSIsInZhbHVlIjoicG9XSDBYcVdyM1Z1RGJnZ2VqNHZSbHQwVHhBZkxReVZqZDNzeTJEb2R3VHI5ZGxxUElCdmpGM25TMnFrM2hqV3l6UktTM00rcjVRR08rdUxBUEpsU084dVB2WnB3UjVqdGJRMGlOM3dFekk9IiwibWFjIjoiOTQ1YjQ4MTUwNDc2ZmRmMjZjNjRjODE3MTFlZWJlZTEwNTBmMzFiODk1MTcyZTA4ODcyOGI4YmFlMmE3MTNmMSJ9; _gid=GA1.2.1900164481.1664869118; cto_bundle=FV56OF9kJTJCN2ZmcFpkSFdJTGNVbjJRWmh4ZHZid2dmWmdUcEMxWkZreG1sMCUyQjlSY3E3N21SVGtXakUxMTlYN285T1U5bXZHODFKOVRGUEdIaE4yUW9TZjVxT3VsZFlnSUtoMUpaOFJlTFZ3eTQzQ2lhVWVJNFVaNHhDWWMwTXVEMWNaa0ZLUWwxNHdPZWU3RFExa045a1ZuMGh3JTNEJTNE; _clck=1h1hhbu|1|f5k|0; _hjSession_927717=eyJpZCI6ImFmOTIzZGQ4LTVmNDAtNGEzMS1hODE2LTRjOGJhYjczMjY5MSIsImNyZWF0ZWQiOjE2NjUzNTA1NDcxNTIsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=1; _hjCachedUserAttributes=eyJhdHRyaWJ1dGVzIjp7ImNsYXNzaWZpZWRQcmljZSI6IjM0NTAwMCAtIDM0NTAwMCIsImNsYXNzaWZpZWRUcmFuc2FjdGlvblR5cGUiOiJmb3Igc2FsZSIsImNsYXNzaWZpZWRUeXBlIjoiaG91c2UgZ3JvdXAiLCJjbGFzc2lmaWVkWmlwY29kZSI6IjI1NjAiLCJjdXN0b21lckZhbWlseSI6InJlYWxfZXN0YXRlX2FnZW5jeSIsInNlYXJjVHJhbnNhY3Rpb25UeXBlIjoiZm9yIHNhbGUiLCJzZWFyY2hDaXR5T3JQb3N0YWxDb2RlIjpbXSwic2VhcmNoTWF4UHJpY2UiOiIiLCJzZWFyY2hNaW5QcmljZSI6IiIsInNlYXJjaFByb3BlcnR5U3RhdGUiOiIiLCJzZWFyY2hUeXBlIjoiaG91c2UiLCJ1c2VyTG9naW5TdGF0dXMiOiJsb2dnZWQgb3V0IiwidXNlcl9hdHRyaWJ1dGUiOjB9LCJ1c2VySWQiOm51bGx9; _hjIncludedInSessionSample=0; __cf_bm=sXjBUU3Kd_DeVHfjgZwGnzeKuuHzomhLTywYOV9X0qs-1665351972-0-AW4p06WFzk9ohZF4QPO2BXULPiskSrcBFjMArSTIglhVIPEu85l7lPBfk/me1bHu/pwk5tlpbeGvg0pNjjEwJrs=; search_postal_code=eyJpdiI6Ink1NG1sVjlWaXRjTmM4aFRlTXd2TVE9PSIsInZhbHVlIjoibklYakprVWtldUU5MjFWeU5XZmlaTUFhYUk3OTNCVkNNOFAzc3o4WWRIRFkvd2FWd0xSWU9zZHNyZFRpWUwvRSIsIm1hYyI6ImVkNTYzZmU0YmFlNTc3YWI5YjcwNmVkNWEyZmExMTA0YTliYjhmODk4NmY4M2UzZWI5NzUyM2MxMWY4MzAyNDIifQ%3D%3D; search_property_type=eyJpdiI6IjZHTDMxQUgvL0JWak1ISndJUW9ia0E9PSIsInZhbHVlIjoiY0V1TjgrRE9uZFF2WEtJaTdsdlNsTDZOemRNYVNHdzJMUVMzNWJHQU9Fa08wNVR0TGpvUkxyTlZ1c3V6eG1iZCIsIm1hYyI6ImI3ZjBjNGM2ZWY2MGE3NWVmMmMxZjY1NmQyYjNhZTEwYWUxZDY0YjQxN2M5MGVhNWIyNTBkNDMxZDk5ZDQ1NTIifQ%3D%3D; search_transaction_type=eyJpdiI6InZDay8xZ0FRUXhjYVM5eU81b2RwT2c9PSIsInZhbHVlIjoiQk9nekRTOHB4N3dVbjJMUU42akVjL0tSdHZtREh4cms2WUlZaFFJVmZ6b3l2MC92NkZldGV0M211ZUxJT1lNNHlrVTA0enNvKzRjWk1YRFE1UHdPdGc9PSIsIm1hYyI6IjExYTUzYTk3MzVkNTQ1YmNlM2Q2NDJiMDIzMGYzNDcxMTdiMjkwNWNiZTYxNGYwZDc4ZjJmMjM3ZmE0ZjE1ODkifQ%3D%3D; search_locality=eyJpdiI6IjBRNzlCM1l4WU9QMnpVSjlCUUFGbnc9PSIsInZhbHVlIjoiM1dHU1JzaWFham9LSHJwc1dCaERKRWpYdUdQcXZCQnVhZDFsbDZhY0s4b2tPVlBZNWNHR0ExdjNOWHNRVktvSiIsIm1hYyI6Ijc5YjliMWY1ZDkxYzM0MzM4ODJhODBmMGU4Y2ZjM2EwNzBiOGIyODU5NDhmNWE0YzRjNjEzNTRkNTYyYzMwYWQifQ%3D%3D; search_province=eyJpdiI6IjNlcFdYbVg2U1l0dDNmMHVGQ0R3Qnc9PSIsInZhbHVlIjoiRHlVVmhDRDByZWdYSWdjN05kY3RvODV6WDdwRUppL3BmMThSTlBsblpNVHE5Y3B1Wm5kVUc0bERDN2gzbEpmS05JMlJXbXg5dGNaM2t4NnJWTnppcnc9PSIsIm1hYyI6IjJlMmUwYjhhOWNlYzM0MjNlMTdiZWUyZmE5NmQ0YmI2MjQyMzQ5ZDNjYmVlNDZhN2M2ZGZiMzcyMzcwNTNmM2UifQ%3D%3D; _ga=GA1.2.2140615889.1664638716; _uetsid=8f634a8043b711ed9c46998b31810bac; _uetvid=1ed26c10419f11ed95402fc4c242df0a; _clsk=1hvt0a5|1665352027038|5|0|i.clarity.ms/collect; _gat_UA-134365382-1=1; _ga_CJKP1787KG=GS1.1.1665350546.32.1.1665352134.0.0.0; XSRF-TOKEN=eyJpdiI6InRZeW0wZUFuNWVSMmViWVNLRFRtaGc9PSIsInZhbHVlIjoiWU11U0t5OWt0dmZ5TnpVQjdMaGRUVkJUNFpIYklDZ2tQMGRUZjV3UXNYUXZ4dERkdisrQVhQRXljZnl6SUJ3V1Jpa3Vua3V1aVhnYnJEbnZ2YkpKYUFPQjJvZVJ4dVZTMklwUHozS0M5Y05ycitYKzhzc2RmL3dhK1h0QldIK1kiLCJtYWMiOiJmM2NhZDg0YTcxZmE0Mjc3ZGY3YzMwNjU1NjZkYmZhOWM5YTUwMzA5MzJhMjc1ZGVlYjU1ZTA3M2YwNGIzZGZhIn0%3D; immoweb_session=eyJpdiI6IjcyYmVDSGdNRE1TV1lsSmpxVUFPK1E9PSIsInZhbHVlIjoiYzcyTGt0dEJxc2xTcFpZVGFGZHl5VHBRbExvNXJBT05pZXBFNDkyWWJHYVhKdWRkcWpRcWtSR3U0MkhQbjFWMVpiU29JMERaRVllQWZsK1hnY3crODZUMjBkOEMzVzc5MXREVHNKNmtBZGVDRU5JMG1Zam5CeSs0cTdDd0JhbHciLCJtYWMiOiIxMjRkMDE4NzUxYjBiZDE1NGIyMDA0ZmMxYzkxZGI1NWRiMDgwN2M1ZWY1MTM0OWM3YjQxOGZlZGQ1NzQ1MTYzIn0%3D",
-    "sec-ch-ua": '"Chromium";v="106", "Microsoft Edge";v="106", "Not;A=Brand";v="99"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": "Windows",
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1'}
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+    'referer': 'https://www.immoweb.be/en'
+}
 
-request = session.get("https://www.immoweb.be/en", headers=headers)
-print(request.text)
+request = session.get("https://www.immoweb.be/en/classified/house/for-sale/bertrix/6880/10161791", headers=headers)
+with open("rew_test.txt","w+",encoding="utf-8") as log:
+    print(request.text,file=log)
 

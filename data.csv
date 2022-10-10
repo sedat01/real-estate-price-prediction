@@ -1,0 +1,8 @@
+,subtype,price,zip,kitchen_type,building_constructionYear,building_condition,energy_heatingType,bedroom_count,land_surface,basementExists,outdoor_terrace_exists,specificities_SME_office_exists,wellnessEquipment_hasSwimmingPool,parking_parkingSpaceCount_indoor,parking_parkingSpaceCount_outdoor
+9314557,apartmentblock,318000,9300,installed,1930,good,gas,6,110,,,,,,
+9314861,house,188000,9260,installed,1978,good,pellet,3,105,,,,,,2
+9315082,house,245000,7700,installed,,,gas,4,0,,,,,,
+9315097,house,420867,9860,installed,2022,asnew,gas,3,536,,,,,1,
+9315098,house,402887,9860,installed,2022,asnew,gas,3,554,,,,,1,
+9315283,castle,1590000,49000,,,,,8,39250,,,,,,
+9315557,housegroup,345000-345000,2560,,,,,,,,,,,,

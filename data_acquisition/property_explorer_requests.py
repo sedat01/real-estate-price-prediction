@@ -26,7 +26,25 @@ def explorer(number_links="max", selenium=False):
             return pg_code
         except:
             pass
-
+    
+    columns_json = ['subtype', 'price', 'zip', 'kitchen_type', 'building_constructionYear', 'building_condition',
+                        'energy_heatingType', 'bedroom_count', 'land_surface', 'basementExists',
+                        'outdoor_terrace_exists',
+                        'specificities_SME_office_exists', 'wellnessEquipment_hasSwimmingPool',
+                        'parking_parkingSpaceCount_indoor',
+                        'parking_parkingSpaceCount_outdoor']
+    columns_tables = ['Number of frontages', 'Living area', 'Bedrooms', 'Bathrooms', 'Surface of the plot',
+                        'Primary energy consumption',
+                        'Energy class', 'Yearly theoretical total energy consumption', 'Address', 'Toilets',
+                        'Garden surface',
+                        'Terrace surface', 'Heat pump', 'Building condition', 'Terrace', 'Kitchen surface',
+                        'Bedroom 1 surface',
+                        'Bedroom 2 surface', 'Bedroom 3 surface']
+    
+    
+    
+    id_data = {}
+    data_all_tables = {}
     def explore_property(url, selenium):
         def flatten(d, parent_key='', sep='_'):
             items = []
@@ -38,37 +56,14 @@ def explorer(number_links="max", selenium=False):
                     items.append((new_key, v))
             return dict(items)
 
-        id_data = {}
-        data_all_tables = {}
+        
         session = requests.Session()
-        headers = {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-            "accept-encoding": "gzip, deflate, br",
-            "accept-language": "bg-BG,bg;q=0.9,en;q=0.8,nl;q=0.7,de;q=0.6",
-            "cookie": "__cf_bm=r4IjRFHtlr2QFIA8K0OWtx8MizguGihMCKeel00MyiY-1665184098-0-ASTvNCRVzIDtBc5p6N+DvfBn2huvC5ku69Gia14YP/8RzFX1bHw+Y5e9NwVvPEQ0+VT1FGGIpP0p9KbPgYFbNu4=; XSRF-TOKEN=eyJpdiI6IjZFcTE1RjVKZkhjNUJsR240Q21paHc9PSIsInZhbHVlIjoiOEJYWlI5MFQ0VUcwS1A0bzFvRVEraU9wUXF0TW56R1NxT0xkbUMvb1N5RUpDbjRCQWdVUk9DSlpNaWtrTDZqcGQ3VHJWYm1CYXdDaFJraHU2a3NUZUhOM1JBQ3VHdlFieG81ZkFmSmNHWFByZnZwNEttUzlvVVRhaENSTTlJbmYiLCJtYWMiOiI5MzA4OTdmYzNiYWQyZDFjNjY5ZjUwOWQ2ODVlZDRmZDkzZGM0ODYwMmI2ZTIxMDRhYTRiMzQ2YThhOTU4ZGE2In0%3D; immoweb_session=eyJpdiI6IkxvMUtvanNPMmZvNVdvNmcxdzhIbGc9PSIsInZhbHVlIjoiQk01L0w4WnJhaXY5TWY1bEcvYU5OMTJxcFI2aFBaQk0rRjVIU1lyS0dYeXkzQnV6alI5TzUrdTlObGY0S1dDbGd0UkhHbldnY3BReDkvdHYzZ3V1V0ptV3EwS1JLR3FCa0oxb215R29WWnQ2ZTBLWmxMWkhRWmtnT3R3eEtIQ1EiLCJtYWMiOiJiYTRiMThhYzhiMTA4MzIwNzkwYjRkMThjZTk5ZDU1NzUzZWY1YTFiNjMwZTg5ZDE4MTNkNmZlODQ2NjNlMDg4In0%3D; _ga=GA1.2.758451540.1665184099; _gid=GA1.2.826184938.1665184099; _ga_CJKP1787KG=GS1.1.1665184099.1.1.1665184099.0.0.0; _gcl_au=1.1.1747172368.1665184101; _uetsid=f00a0200469411ed9949c71588b9fe82; _uetvid=f009f520469411edbb4aebf1b7de0c23; _hjSessionUser_927717=eyJpZCI6IjZlN2E1MTk4LTczYzEtNTU0OC04YzQ3LTc2YjQwYTI4ZmEzMiIsImNyZWF0ZWQiOjE2NjUxODQxMDE1MDksImV4aXN0aW5nIjpmYWxzZX0=; _hjFirstSeen=1; _hjIncludedInSessionSample=0; _hjSession_927717=eyJpZCI6ImU1YWUwN2QzLWJlYTctNDBlMi1iYWI0LTFlMjEzZTBhMzJiOSIsImNyZWF0ZWQiOjE2NjUxODQxMDE2MzYsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _hjCachedUserAttributes=eyJhdHRyaWJ1dGVzIjp7InVzZXJfYXR0cmlidXRlIjowfSwidXNlcklkIjpudWxsfQ==; _clck=1731rn2|1|f5i|0; _clsk=1gb4ocs|1665184102329|1|1|a.clarity.ms/collect",
-            "sec-ch-ua": '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"',
-            "sec-ch-ua-mobile": "?0",
-            "sec-ch-ua-platform": "Windows",
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'none',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1'}
+        header = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+    'referer': 'https://www.immoweb.be/en'
+}
 
-        columns_json = ['subtype', 'price', 'zip', 'kitchen_type', 'building_constructionYear', 'building_condition',
-                        'energy_heatingType', 'bedroom_count', 'land_surface', 'basementExists',
-                        'outdoor_terrace_exists',
-                        'specificities_SME_office_exists', 'wellnessEquipment_hasSwimmingPool',
-                        'parking_parkingSpaceCount_indoor',
-                        'parking_parkingSpaceCount_outdoor']
-        columns_tables = ['Number of frontages', 'Living area', 'Bedrooms', 'Bathrooms', 'Surface of the plot',
-                          'Primary energy consumption',
-                          'Energy class', 'Yearly theoretical total energy consumption', 'Address', 'Toilets',
-                          'Garden surface',
-                          'Terrace surface', 'Heat pump', 'Building condition', 'Terrace', 'Kitchen surface',
-                          'Bedroom 1 surface',
-                          'Bedroom 2 surface', 'Bedroom 3 surface']
+        
 
         with open("log_explorer.txt", "a+", encoding="utf-8") as log:
             pat1 = "\\n"
@@ -83,9 +78,8 @@ def explorer(number_links="max", selenium=False):
                     pass
             else:
                 try:
-                    page_source = session.get(url, headers)
+                    page_source = session.get(url, headers=header)
                     soup = BeautifulSoup(page_source.text, "lxml")
-                    print(soup)
                 except:
                     print(f"Exception retrieving page source url= {url}", file=log)
                     pass
@@ -101,7 +95,7 @@ def explorer(number_links="max", selenium=False):
                 id_data[data_json["id"]] = data_json
                 df_json = pd.DataFrame.from_dict(id_data, orient="index")
                 df_json = df_json[columns_json]
-                df_json.to_csv("from_json.csv")
+                df_json.to_csv("from_json.csv",mode='a')
             except:
                 print(f"Exception getting data from source url= {url}", file=log)
 
@@ -138,20 +132,27 @@ def explorer(number_links="max", selenium=False):
                 data_all_tables[property_id] = data
                 df_tables = pd.DataFrame.from_dict(data_all_tables, orient="index")
                 df_tables = df_tables[columns_tables]
-                df_tables.to_csv("from_tables.csv")
+                df_tables.to_csv("from_tables.csv","a")
             except:
                 print("Data error:", file=log)
 
-        df_all = pd.concat(df_json, df_tables)
-        df_all.to_csv("Data_all.csv")
+        # df_all = pd.concat(df_json, df_tables)
+        
 
-    with open("links_clean.txt", "r", encoding="utf-8") as url_list_file:
+    with open("./data_acquisition/links_clean.txt", "r", encoding="utf-8") as url_list_file:
         full_url_list = url_list_file.readlines()
     if number_links == "max":
-        Parallel(n_jobs=-1, prefer="threads")(delayed(explore_property)(url, selenium) for url in full_url_list)
+        Parallel(n_jobs=-3, require="sharedmem", verbose=10)(delayed(explore_property)(url, selenium) for url in full_url_list)
 
     else:
         url_list = []
         for link in range(number_links):
             url_list.append(full_url_list[link])
         Parallel(n_jobs=-3, require="sharedmem", verbose=10)(delayed(explore_property)(url, selenium) for url in url_list)
+        
+    print(id_data)
+    df = pd.DataFrame.from_dict(id_data,orient="index")
+    df = df.drop(columns="id")
+    df = df[columns_json]
+    df = df[df.price !="noprice"]
+    df.to_csv("data.csv")

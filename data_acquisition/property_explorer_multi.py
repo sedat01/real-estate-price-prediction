@@ -1,3 +1,4 @@
+import requests
 from bs4 import BeautifulSoup
 import time
 import re
@@ -33,7 +34,7 @@ def explore_property(url):
     try:
         pat1 = "\\n";pat2 = "  "
         pat = r'|'.join((pat1,pat2))
-        page_source = open_page(url)
+        page_source = requests.get(url,headers=header)
         data = {}
         soup = BeautifulSoup(page_source,"lxml")
         property_id = soup.find("div",class_="classified__header--immoweb-code")
