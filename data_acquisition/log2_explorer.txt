@@ -1,0 +1,2349 @@
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waterloo/1410/9890960
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/waterloo/1410/9890960
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/chatelineau/6200/7456685https://www.immoweb.be/en/classified/house/for-sale/schaerbeek/1030/9764345
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/chatelineau/6200/7456685https://www.immoweb.be/en/classified/house/for-sale/schaerbeek/1030/9764345
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/la-louviere/7100/9765177
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/la-louviere/7100/9765177
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jemeppe/4101/9766214
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mont-sur-marchienne/6032/9892630
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/mont-sur-marchienne/6032/9892630
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/cumbre-del-sol/03726/9768440
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/cumbre-del-sol/03726/9768440
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ransart/6043/9769156
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/morlanwelz/7140/9770818
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/morlanwelz/7140/9770818
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/lasne/1380/9770971
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-rent/lasne/1380/9770971
+
+Data error:
+Data error:
+Data error:
+Exception retrieving page source url= fied/house/for-sale/zele/9240/9895790
+
+Exception getting data from source url= fied/house/for-sale/zele/9240/9895790
+
+Exception getting property id url= fied/house/for-sale/zele/9240/9895790
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/charleroi/6000/9773589
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/charleroi/6000/9773589
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/haaltert/9450/9034859
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/overijse/3090/9896701
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/overijse/3090/9896701
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/court-saint-etienne/1490/9896780
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/court-saint-etienne/1490/9896780
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/saint-servais/5002/9896778
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/saint-servais/5002/9896778
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/malonne/5020/9896783
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/malonne/5020/9896783
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stasegem/8530/7528735
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brasschaat/2930/9774260
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/brasschaat/2930/9774260
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093769
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093769
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093771
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093771
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093785
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093785
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093777
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093777
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093774
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093774
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093780
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093780
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093782
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093782
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093786
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093786
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093788
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093788
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093787
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nivelles/1400/8093787
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093800
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093800
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093798
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093798
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093799
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093799
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093801
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093801
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093802
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093802
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093806
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093806
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093803
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093803
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093804
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093804
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093808
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093808
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093807
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093807
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093805
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093805
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093809
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093809
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093814
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093814
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093813
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093813
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093811
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093811
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093812
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093812
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093810
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/8093810
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/8098717
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/knokke-heist/8300/9897764
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/9898601
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/anderlecht/1070/9898601
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9898634
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/pure/08110/9899414
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/pure/08110/9899414
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/chievres-tongre-notre-dame/7951/9899709
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/9038047
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boechout/2530/7541346
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/avelgem/8580/7600601
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/neufch-ateau-longlier/6840/9776349
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/diksmuide/8600/9777300
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/diksmuide/8600/9777300
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/durbuy/6940/9626910
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/durbuy/6940/9626910
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mont/6661/8173355
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostende/8400/8181592
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waregem/8790/7615665
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/7656588
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/koksijde/8670/9779368
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tournon-d-agenais/47370/9047369
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/villersle-bouillet/4530/7659962
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beringen/3580/7675299
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tournai/7500/9632416
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/tournai/7500/9632416
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zottegem/9620/9633917
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/zottegem/9620/9633917
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/liege-2/4020/9058571
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lasne/1380/9779872
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/lasne/1380/9779872
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lixhe/4600/9781203
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/lixhe/4600/9781203
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/liege-guillemins/4000/7743316
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/8241692
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/berlaar/2590/8243908
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/huldenberg/3040/9784876
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/huldenberg/3040/9784876
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lochristi/9080/9784824
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/huldenberg/3040/9784872
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/huldenberg/3040/9784872
+
+Data error:
+Data error:
+Data error:
+Exception retrieving page source url= /en/classified/house/for-sale/trazegnies/6183/9638837
+
+Exception getting data from source url= /en/classified/house/for-sale/trazegnies/6183/9638837
+
+Exception getting property id url= /en/classified/house/for-sale/trazegnies/6183/9638837
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kluisbergen/9690/8290503
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/carnieres/7141/8293493
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tienen/3300/9786641
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/tienen/3300/9786641
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/riemst/3770/9639535
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/riemst/3770/9639535
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lasne/1380/9641473
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/lasne/1380/9641473
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/saint-hubert/6870/9642037
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/temse/9140/9642259
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boutersem/3370/9093246
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostakker/9041/9097969
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boncelles/4100/8373768
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boncelles/4100/8373800
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/desselgem/8792/8374951
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-andries/8200/9642869
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9643355
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/merbesle-ch-ateau-fontaine-valmont/6567/9643599
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aardenburg/4527cj/9646935
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bornem/2880/9104740
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zwevegem/8550/9109889
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/moraira/03724/9110261https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9695504
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/moraira/03724/9110261https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9695504
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/basecles/7971/9696110
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9696706
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hornu/7301/9697935
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/roeselare/8800/9698213
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/attert/6717/9698418
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aywaille/4920/9698975
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brakel/9660/9790133
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vielsalm/6690/9790284
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/putte/2580/9791950
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/putte/2580/9791950
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/maldegem/9990/9791898
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9650244
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9650244
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9651402
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9651402
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lembeke/9971/9700072
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/lembeke/9971/9700072
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/la-couture/62136/9701604
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9702390
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9702390
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/schaerbeek/1030/9703696
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-gilles/1060/9703601
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/evere/1140/9793600
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-idesbald/8670/9794295
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sint-idesbald/8670/9794295
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/carvoeiro/3320-302/9795109
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gelrode/3200/8421772
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/warquignies/7340/8452132
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/buggenhout/9255/8453062
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/claviers/83830/9652645
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/claviers/83830/9652645
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostrozebeke/8780/9653052
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/diksmuide/8600/9704356
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hannut/4280/9705620
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/knokke-zoute/8300/9123584
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/knokke-zoute/8300/9123599
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/leuven/3000/9125308
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bruyelle/7641/9127925
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/geel/2440/9127860
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/virton/6760/9129977
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/booischot/2221/9130839
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenburg/8460/9133280
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/halle/2980/9657039
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostrozebeke/8780/9657404
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ans/4430/9796244
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/antwerp/2018/9796887
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vendieres/02540/9798318
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/houffalize/6660/9798619
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/koksijde/8670/9798888
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/koksijde/8670/9798888
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zwevegem/8550/9708040
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlues/6150/9708792
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vedrin/5020/9709230
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/drongen/9031/9709705
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/drongen/9031/9709708
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/drongen/9031/9709711
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/la-rellana/03169/9710194
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/loches/37600/9811103
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/loches/37600/9811103
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tienen/3300/9710377
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anseremme/5500/9811132
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/rumst/2840/9811240
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ravels-poppel/2382/9811413
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nantes/44000/9812340
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nantes/44000/9812340
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ninove/9400/9812396
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waregem/8790/9812916
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9813085
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9813085
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ostende/8400/9659049
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/niel/2845/9660674
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/mont-saint-guibert/1435/9800208
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beveren/9120/9801162
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/trazegnies/6183/9802828
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9136072
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ath/7800/9136547
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/olen/2250/9136629
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/meeswijk/3630/9139186
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/houthulst/8650/9139279
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9660989
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9660989
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/fontenoy/7643/9665548
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9813087
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9813087
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9813639
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9813639
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostrozebeke/8780/9814739
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bruxelles/1020/9815544
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zonhoven/3520/9711759
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/zonhoven/3520/9711759
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/everbeek/9660/9804642
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anzegem/8570/9804727
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9804995
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9804995
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerp/2000/9806174
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wondelgem/9032/9816460
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mons/7000/9816575
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wondelgem/9032/9816638
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hamme/9220/9817897
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/altea-hills/03590/9151526
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/altea-hills/03590/9151526
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beveren/8800/9152626
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/temse/9140/9808831
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berchem/2600/9808839
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/berchem/2600/9808839
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenaarde/9700/9809091
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herseaux/7712/9809580
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/herseaux/7712/9809580
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/plomion/02140/9809995
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ellezelles/7800/9810534
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aulnois/7040/9665717
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boussu/7300/9665720
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beloeil/7970/9665808
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/la-bouverie/7080/9665817
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mons/7000/9665832
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/basecles/7971/9665875
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/izegem/8870/9715909
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/destelbergen/9070/9716575
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-idesbald/8670/9718769
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sint-idesbald/8670/9718769
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ougree/4102/9818267
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eeklo/9900/9819195
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/athus/6791/9820067
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ellezelles/7890/9820218
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ellezelles/7890/9820218
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/middelkerke/8434/9154687
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/middelkerke/8434/9154691
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/middelkerke/8434/9154695
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/st-pancre/54730/9158375
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/haaltert/9450/9162671
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9666491
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9666491
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berlare/9290/9666551
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vlamertinge/8908/9667518
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/verviers/4800/9667728
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/habay-la-neuve/6720/9669230
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lierde/9570/9669330
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/woluwe-saint-pierre/1150/9721975
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/lanklaar/3650/9722486
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/harelbeke/8530/9722350
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boezinge/8904/9722546
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/marcq/7850/9722564
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ieper/8902/9820988
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ieper/8902/9820988
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hannut/4280/9821234
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kortrijk/8500/9821382
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerpen/2140/9821959
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/antwerpen/2140/9821959
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/froidchapelle/6440/9821882
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ettelbruck/09048/9822085
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gosselies/6041/9824076
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eeklo/9900/9824800
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/nazareth/9810/9824805
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nemours/77140/9825141
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nemours/77140/9825141
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eernegem/8480/9671283
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eernegem/8480/9671289
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beernem-oedelem/8730/9671603
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/clabecq/1480/9671944
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bertem/3060/9672313
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/huy/4500/9673610
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/verviers/4800/9722703
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ampsin/4540/9722868
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4101/9723087
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berlare/9290/9723779
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/amay/4540/9675689
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wanze/4520/9676316
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/duffel/2570/9676452
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wuustwezel/2990/9677498
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/erps-kwerps/3071/9726312
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9726683
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9726683
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/astene/9800/9726927
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/roosdaal/1760/9727207
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/schilde/2970/9727720
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zoersel/2980/9729042
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zwevegem/8550/9825369
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/9825961
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9826626
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/adegem/9991/9826943
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wielsbeke/8710/9827610
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/wielsbeke/8710/9827610
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herve-chaineux/4650/9827558
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/profondeville-lesve/5170/9677802
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/denderhoutem/9450/9679329
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/denderhoutem/9450/9679330
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/montignies-sur-sambre/6061/9680245
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9680595
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nieuwpoort/8620/9680595
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herzele/9550/9681838
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/uccle/1180/9730227
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hasselt/3500/9730657
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/westende/8434/9730590
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/wielsbeke/8710/9731050
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/tienen/3300/9731952
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/retinne/4621/9732324
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/overijse/3090/9732856
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/verviers/4800/9827726
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/diksmuide/8600/9828555
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8000/9828866
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/rixensart/1330/9829118
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/othee/4340/9830096
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/othee/4340/9830096
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/saint-nicolas/4420/9682297
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/benahavis/29679/9682472
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eben-emael/4690/9684781
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/menen/8930/9685028
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vilvoorde/1800/9684959
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/auderghem/1160/9685329
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herne/1540/9735010
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lanaken/3620/9735135
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/orleans/45000/9735898
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/gent/9000/9736416
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ekeren/2180/9736567
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/orihuela/03300/9736836
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/schoonaarde/9200/9736999
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beveren/9120/9738452
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/beveren/9120/9738452
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jodoigne/1370/9738837
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/guardamar-del-segura/03140/9738927
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lo-pagan/30740/9738949
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/trois-ponts/4980/9739495
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/pietrain/1370/9687369
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-agatha-berchem/1082/9687866
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berendrecht/2040/9688158
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braine-l-alleud/1420/9688315
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kinrooi/3640/9830904
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boussu/7300/9830977
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braine-l-alleud/1420/9831109
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tubize/1480/9831426
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/tubize/1480/9831426
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braine-le-ch-ateau-wauthier-braine/1440/9832189
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/frameries/7080/9832076
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aubange/6790/9833334
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lodelinsart/6042/9690125
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenburg/8460/9690368
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenaarde/9700/9691188
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/knokke-heist/8300/9692640
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/knokke-heist/8300/9692640
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/habay/6724/9693685
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9694567
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vilvoorde/1800/9695090
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beyne-heusay/4610/9741156
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beyne-heusay/4610/9741158
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/langemark-poelkapelle/8920/9741203
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sijsele/8340/9742097
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uhrwiller/67350/9833602
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/uhrwiller/67350/9833602
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wetteren/9230/9833415
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tournai/7500/9833727
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gemmenich/4851/9834283
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9834640
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/esneux/4130/9834690
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berlare/9290/9834890
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/laeken/1020/9835142
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waremme/4300/9835366
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eernegem/8480/9835391
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/eernegem/8480/9835391
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/braine-l-alleud/1420/9835264
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/molenbeek-saint-jean/1080/9743624
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/molenbeek-saint-jean/1080/9743624
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/desselgem/8792/9744489
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/drogenbos/1620/9744913
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/grez-doiceau/1390/9744955
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jette/1090/9745307
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/torhout/8820/9745362
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/torhout/8820/9745369
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/torhout/8820/9745373
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ieper/8900/9745701
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ieper/8900/9745701
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/casteau/7061/9745927
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-rent/casteau/7061/9745927
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mont-sur-marchienne/6032/9746305
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/niel/2845/9746856
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braives/4260/9748087
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/braives/4260/9748087
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/puurs/2870/9747912
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/namur/5000/9748934
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-andries/8200/9835709
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hooglede/8830/9836005
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ninove/9400/9836610
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/kortemark/8610/9837123
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jodoigne/1370/9837195
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/angleur/4031/9837345
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/lille/2275/9837366
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/angleur/4031/9838102
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/angleur/4031/9838102
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8000/9838313https://www.immoweb.be/en/classified/house/for-sale/wulpen/8670/9749067
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8000/9838313https://www.immoweb.be/en/classified/house/for-sale/wulpen/8670/9749067
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/adinkerke/8660/9749070
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/verviers/4800/9749454
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kapellen/2950/9749628
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8000/9750121
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/edegem/2650/9750227
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/morialme/5621/9750538
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/morialme/5621/9750538
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vezon/7538/9750622
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stekene/9190/9750884
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/stekene/9190/9750884
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gooik/1755/9753077
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/houthulst/8650/9838508
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hastiere-lavaux/5540/9839029
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostende/8400/9839606
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/oostende/8400/9839606
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/libramont-chevigny/6800/9840082
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/9840281
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/kapelle-op-den-bos/1880/9753362
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/maaseik/3680/9753498
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/maaseik/3680/9753498
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braine-le-comte/7090/9755492
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/schriek/2223/9755526
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9755613
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/geel/2440/9756219
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/quievrain/7380/9756357
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9756486
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/de-panne/8660/9756486
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/la-roche-en-ardenne/6980/9840920
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sprimont/4140/9840989
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jemeppe/4101/9841603
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/roeselare/8800/9841699
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/berlare/9290/9841765
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/florenville/6820/9842250
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/florenville/6820/9842250
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sorinnes/5503/9842765
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/bastogne/6600/9843061
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ronse/9600/9843249
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stekene/9190/9843223
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/saint-nicolas/4420/9843741
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/9843855
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/9843858
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/heusy/4802/9844322
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9844711
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/moerkerke/8340/9844881
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9845035
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kapellen/2950/9845533
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/chaudfontaine/4051/9846450
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/harelbeke/8530/9846832
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/pau/64000/9847268
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zonnebeke/8980/9847468
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zottegem/9620/9847698
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ophasselt/9500/9847769
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stekene/9190/9847901
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/9848292
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/chievres/7950/9848730
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/chievres/7950/9848730
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerp/2000/9848771
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9849320
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/maing/59233/9849437
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/maing/59233/9849437
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tubize/1480/9850511
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oosterzele/9860/9850555
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/strombeek-bever/1853/9851105
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/strombeek-bever/1853/9851105
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/faimes/4317/9851724
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sijsele/8340/9852134
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sijsele/8340/9852134
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenaarde/9700/9852709
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brussels-city/1000/9852938
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gavere/9890/9852973
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kortrijk/8500/9852998
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/beringen-beverlo/3581/9853154
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-rent/beringen-beverlo/3581/9853154
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/izegem/8870/9853267
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/velm/3806/9853437
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/velm/3806/9853437
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/st-mard/6762/9853691
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerp/2060/9854125
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/malmedy/4960/9854346
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/courcelles/6180/9854470
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9854634
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/geetbets/3450/9854707
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-truiden/3800/9854815
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ingelmunster/8770/9854931
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9855130
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/affligem/1790/9855132
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9855787
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9855787
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waterloo/1410/9855708
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/virton/6760/9856496
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/leval-trahegnies/7134/9856750
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerp/2020/9857098
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hasselt/3500/9900239
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wijtschate/8953/9901026
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/pondrome/5574/9901083
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/helecine/1357/9901162
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/9901836
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/oostduinkerke/8670/9901836
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/borgerhout/2140/9902184
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/knokke/8300/9902440
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/los-alcazares/30710/9902584
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/colfontaine-wasmes/7340/9902809
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tongerlo/2260/9903341
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/tongerlo/2260/9903341
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beaumont/6500/9903611
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/baileux/6464/9903856
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boussu-en-fagne/5660/9904015
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/marchienne-au-pont/6030/9904074
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/koksijde/8670/9904422
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/koksijde/8670/9904422
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/signy-l-abbaye/08460/9904444
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/signy-l-abbaye/08460/9904444
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/brasschaat/2930/9904564
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bredene/8450/9904601
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostkamp/8020/9904655
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tournai/7500/9904675
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beverlo/3581/9904713
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/durbuy/6940/9904892
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herve/4650/9905066
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herve/4650/9905075
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/anderlues/6150/9905182
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9905672
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9905672
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/reuland/4790/9905740
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/reuland/4790/9905740
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/lasne/1380/9906275
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-rent/lasne/1380/9906275
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ciplet/4260/9906477
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ciplet/4260/9906477
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/flers/61100/9906699
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/flers/61100/9906699
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/braives-ciplet/4260/9906910
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8000/9907082
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/courcelles-trazegnies/6183/9907186
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/molenbeek-saint-jean/1080/9907482
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bruxelles/1000/9907551
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/9908162
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/9908162
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/saint-maur/7500/9908323
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/hyon/7022/9908408
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-denijs/8554/9908413
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ganshoren/1083/9908751
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/presles/6250/9909002
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/opprebais/1315/9909053
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/liege/4000/9909083
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zottegem/9620/9909670
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/zottegem/9620/9909670
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/vielsalm/6690/9910325
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zarlardinge/9500/9910395
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9910463
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mol/2400/9910487
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/cucq/62780/9910698
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/maldegem/9990/9911083
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/neufvilles/7063/9911062
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/fontaine-de-vaucluse/84800/9911553
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/fontaine-de-vaucluse/84800/9911553
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kasterlee/2460/9911683
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/kasterlee/2460/9911683
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/leernes/6142/9911916
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/leernes/6142/9911916
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boom/2850/9911989
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boom/2850/9911994
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/boom/2850/9912000
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kortemark/8610/9912100
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/kortemark/8610/9912100
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herzele/9550/9912068
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/neufch-ateau/6840/9912488
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/neufch-ateau/6840/9912488
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/holsbeek/3220/9912551
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/binche/7130/9912872
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/landen/3401/9913094
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/knokke-heist/8300/9913185
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wevelgem/8560/9913226
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/henin-beaumont/62110/9913458
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/villers-poterie/6280/9913546
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/tellin-bure/6927/9913786
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/westerlo/2260/9913847
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/naast/7062/9914405
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/arlon/6700/9914437
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerpen-1/2018/9914534
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/diest/3290/9914864
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/herk-de-stad/3540/9915009
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/charleroi/6001/9915816
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9915940
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/haaltert/9450/9915936
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/laakdal/2430/9916118
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/dilbeek/1700/9916098
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/geel/2440/9916140
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/geel/2440/9916143
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/balen/2490/9916170
+
+Exception getting property id url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/balen/2490/9916170
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916171
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916171
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916172
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916172
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916174
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916174
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916175
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916175
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916173
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916173
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916177
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916177
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916176
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9916176
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zulte/9870/9916433
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/zulte/9870/9916433
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lokeren/9160/9968372
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/wondelgem/9032/9968395
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/wondelgem/9032/9968395
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/willebroek/2830/9968378
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/meulebeke/8760/9968624
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/grandmetz/7900/9968566
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waregem/8790/9968724
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9969037
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/seraing/4100/9969037
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/villers-la-ville/1495/9968973
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zwevegem/8550/9969081
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mouscron/7700/9969153
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jemeppe-sur-sambre/5190/9969374
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/jemeppe-sur-sambre/5190/9969374
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ekeren-antwerpen/2180/9969325
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stavelot/4970/9916708
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/stavelot/4970/9916708
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bassilly/7830/9969419
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/los-alcazares/30710/9916771
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/dehesa-de-campoamor/03189/9916817
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/olen/2250/9916965
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/olen/2250/9916965
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/narbonne/11100/9917172
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/narbonne/11100/9917172
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bruxelles-20/1200/9917285
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/bruxelles-20/1200/9917285
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/landegem/9850/9917664
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-rent/landegem/9850/9917664
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/borgloon/3840/9917654
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jemeppe-sur-sambre/5190/9917651
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ronse/9600/9917865
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ham/3945/9969523
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/leuven/3010/9969560
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oud-turnhout/2360/9969651
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nea-palatia/190-15/9969701
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waremme/4300/9969808
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nandrin/4550/9969898
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/barvaux/6940/9969921
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ohain/1380/9970150
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ohain/1380/9970150
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hornu/7301/9970167
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hasselt/3510/9970350
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bouillon/6830/9970362
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/mechelen/2800/9917894
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-eloois-winkel/8880/9918024
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenaarde/9700/9918016
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ath/7800/9918095
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ath/7800/9918095
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/niel/2845/9918581
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/niel/2845/9918581
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/hastiere/5540/9918526
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/asse/1730/9918674
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/uccle/1180/9918696
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/woluwe-saint-lambert/1200/9918732
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/villers-poterie/6280/9918761
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oostnieuwkerke/8840/9918828
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/neerijse/3040/9919036
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/maldegem/9990/9919191
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gent/9000/9919432
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jambes/5100/9919416
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/izegem/8870/9970473
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/oudenaarde/9700/9970558
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/houthalen-helchteren/3530/9970602
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/egem/8740/9970629
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bierset/4460/9970967
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ixelles/1050/9971191
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ixelles/1050/9971191
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nimy/7020/9971267
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/nimy/7020/9971267
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/beaumont/6500/9919814
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/grez-doiceau/1390/9919912
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/andrimont/4821/9920001
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aalst/9300/9920262
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/forest/2430/9920388
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eeklo/9900/9920438
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kapellen/2950/9971387
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/arlon/6700/9971711
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/balen/2490/9971831
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/villers-la-ville/1495/9971847
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/waregem/8790/9971984
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waremme/4300/9972023
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/meerdonk/9170/9972381
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/meerdonk/9170/9972381
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/lier/2500/9972408
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/roeselare/8800/9920703
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/jemappes/7012/9920959
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/jemappes/7012/9920959
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/waregem/8790/9921441
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/deurne/2100/9921789
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9972521
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9972521
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/melsele/9120/9972613
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/torhout/8820/9972627
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/eksaarde/9160/9972655
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/ronse/9600/9972736
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/kruisem/9770/9972758
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/stekene/9190/9972793
+
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/kruisem/9750/9972914
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/liege/4000/9973390
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/charleroi/6001/9973495
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/nalinnes/6120/9973727
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/new-real-estate-project-houses/for-sale/brugge/8200/9973831
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brugge/8200/9973840
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/godarville/7160/9973874
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/brakel/9660/9973904
+
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/westende-middelkerke/8434/9974332
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/westende-middelkerke/8434/9974332
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/aalst/9300/9974485
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/antwerpen/2100/9974497
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/adinkerke/8660/9922011
+
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/zandhoven/2240/9922514
+

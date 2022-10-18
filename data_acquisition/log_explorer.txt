@@ -122,3 +122,166 @@ Exception getting data from source url= https://www.immoweb.be/en/classified/hou
 Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/ruddervoorde/8020/9314264
 
 Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/alicante/03170/9544101
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/alicante/03170/9544101
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-rent/bruxelles/1090/9548809
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9358367
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/sint-niklaas/9100/9358367
+
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/bree/3960/9358667
+
+Data error:
+Data error:
+Exception getting data from source url= https://www.immoweb.be/en/classified/house/for-sale/gistel/8470/9556533
+
+Exception getting property id url= https://www.immoweb.be/en/classified/house/for-sale/gistel/8470/9556533
+
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:
+Data error:

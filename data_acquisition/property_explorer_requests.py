@@ -1,3 +1,5 @@
+import time
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -10,7 +12,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 
-def explorer(number_links="max", selenium=False):
+def explorer(province,province1,start=0, number_links="max", selenium=False):
     def open_page(url):
 
         options = Options()
@@ -26,25 +28,26 @@ def explorer(number_links="max", selenium=False):
             return pg_code
         except:
             pass
-    
+
+        time.sleep(0.5)
+
     columns_json = ['subtype', 'price', 'zip', 'kitchen_type', 'building_constructionYear', 'building_condition',
-                        'energy_heatingType', 'bedroom_count', 'land_surface', 'basementExists',
-                        'outdoor_terrace_exists',
-                        'specificities_SME_office_exists', 'wellnessEquipment_hasSwimmingPool',
-                        'parking_parkingSpaceCount_indoor',
-                        'parking_parkingSpaceCount_outdoor']
+                    'energy_heatingType', 'bedroom_count', 'land_surface', 'basementExists',
+                    'outdoor_terrace_exists',
+                    'specificities_SME_office_exists', 'wellnessEquipment_hasSwimmingPool',
+                    'parking_parkingSpaceCount_indoor',
+                    'parking_parkingSpaceCount_outdoor']
     columns_tables = ['Number of frontages', 'Living area', 'Bedrooms', 'Bathrooms', 'Surface of the plot',
-                        'Primary energy consumption',
-                        'Energy class', 'Yearly theoretical total energy consumption', 'Address', 'Toilets',
-                        'Garden surface',
-                        'Terrace surface', 'Heat pump', 'Building condition', 'Terrace', 'Kitchen surface',
-                        'Bedroom 1 surface',
-                        'Bedroom 2 surface', 'Bedroom 3 surface']
-    
-    
-    
+                      'Primary energy consumption',
+                      'Energy class', 'Yearly theoretical total energy consumption', 'Address', 'Toilets',
+                      'Garden surface',
+                      'Terrace surface', 'Heat pump', 'Building condition', 'Terrace', 'Kitchen surface',
+                      'Bedroom 1 surface',
+                      'Bedroom 2 surface', 'Bedroom 3 surface']
+
     id_data = {}
     data_all_tables = {}
+
     def explore_property(url, selenium):
         def flatten(d, parent_key='', sep='_'):
             items = []
@@ -56,16 +59,13 @@ def explorer(number_links="max", selenium=False):
                     items.append((new_key, v))
             return dict(items)
 
-        
         session = requests.Session()
         header = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
-    'referer': 'https://www.immoweb.be/en'
-}
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+            'referer': 'https://www.immoweb.be/en'
+        }
 
-        
-
-        with open("log_explorer.txt", "a+", encoding="utf-8") as log:
+        with open("log2_explorer.txt", "a+", encoding="utf-8") as log:
             pat1 = "\\n"
             pat2 = "  "
             pat = r'|'.join((pat1, pat2))
@@ -92,10 +92,12 @@ def explorer(number_links="max", selenium=False):
                 initial_script = re.sub(',"customer".+', "", initial_script)
                 data_json = json.loads(initial_script)
                 data_json = flatten(data_json)
+                data_json["Province"] = province1
                 id_data[data_json["id"]] = data_json
+                #id_data["Province"] = "Antwerp"
                 df_json = pd.DataFrame.from_dict(id_data, orient="index")
-                df_json = df_json[columns_json]
-                df_json.to_csv("from_json.csv",mode='a')
+                #df_json = df_json[columns_json]
+                # df_json.to_csv("from_json.csv",mode='a')
             except:
                 print(f"Exception getting data from source url= {url}", file=log)
 
@@ -123,36 +125,45 @@ def explorer(number_links="max", selenium=False):
                             value = re.sub("<.+?>", "", value)
                             value = value.strip()
                             data[key] = value
-
+                
                 for key, value in data.items():
                     data[key] = re.sub(pat, "", value)
                     for key1, value1 in data.items():
                         data[key1] = re.sub(pat, "", value1)
-
+                data["Province"] = province1
                 data_all_tables[property_id] = data
+                #data_all_tables["Province"] = "Antwerp"
                 df_tables = pd.DataFrame.from_dict(data_all_tables, orient="index")
-                df_tables = df_tables[columns_tables]
-                df_tables.to_csv("from_tables.csv","a")
+                #df_tables = df_tables[columns_tables]
+                # df_tables.to_csv("from_tables.csv","a")
             except:
                 print("Data error:", file=log)
 
         # df_all = pd.concat(df_json, df_tables)
-        
 
-    with open("./data_acquisition/links_clean.txt", "r", encoding="utf-8") as url_list_file:
+    with open(f"links_{province}.txt", "r", encoding="utf-8") as url_list_file:
         full_url_list = url_list_file.readlines()
     if number_links == "max":
-        Parallel(n_jobs=-3, require="sharedmem", verbose=10)(delayed(explore_property)(url, selenium) for url in full_url_list)
+        print(f"Number of links to scrape {len(full_url_list)}")
+        Parallel(n_jobs=-3, require="sharedmem", verbose=10)(
+            delayed(explore_property)(url, selenium) for url in full_url_list)
 
     else:
         url_list = []
-        for link in range(number_links):
+        for link in range(start, number_links):
             url_list.append(full_url_list[link])
-        Parallel(n_jobs=-3, require="sharedmem", verbose=10)(delayed(explore_property)(url, selenium) for url in url_list)
-        
-    print(id_data)
-    df = pd.DataFrame.from_dict(id_data,orient="index")
-    df = df.drop(columns="id")
-    df = df[columns_json]
-    df = df[df.price !="noprice"]
-    df.to_csv("data.csv")
+        Parallel(n_jobs=-3, require="sharedmem", verbose=10)(
+            delayed(explore_property)(url, selenium) for url in url_list)
+
+    #print(id_data)
+    #print(type(id_data))
+    df1 = pd.DataFrame.from_dict(id_data, orient="index")
+    df1.to_csv(f"from_json_{province}.csv")
+    df2 = pd.DataFrame.from_dict(data_all_tables, orient="index")
+    df2.to_csv(f"from_tables_{province}.csv")
+    df1 = pd.concat([df1, df2], axis=1)
+    # df = df.drop(columns="id")
+    # df = df[columns_json]
+    # df = df[df.price !="noprice"]
+    df1.to_csv(f"data_all_{province}.csv")
+    return id_data,data_all_tables

@@ -49,7 +49,7 @@ def delete_duplicate(input_file, output_file):
     output.close()
 
 
-Parallel(n_jobs=-1)(delayed(scrape)(url) for url in sitemap_url_list)
+Parallel(n_jobs=-2, verbose=10)(delayed(scrape)(url) for url in sitemap_url_list)
 
 delete_duplicate(input_file_path, output_file_path)
 print("Ready")
