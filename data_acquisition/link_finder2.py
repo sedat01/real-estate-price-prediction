@@ -1,13 +1,9 @@
-from joblib import Parallel, delayed
-from requests import session
 import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor, thread
-import threading
 
 
 pages = 1
