@@ -1,6 +1,0 @@
-,id,type,subtype,price,transactionType,zip,visualisationOption,kitchen_type,building_constructionYear,building_condition,energy_heatingType,certificates_primaryEnergyConsumptionLevel,bedroom_count,land_surface,atticExists,basementExists,outdoor_garden_surface,outdoor_terrace_exists,specificities_SME_office_exists,wellnessEquipment_hasSwimmingPool,parking_parkingSpaceCount_indoor,parking_parkingSpaceCount_outdoor,condition_isNewlyBuilt
-9155441,9155441,houseunit,houseunit,noprice,forsale,4840,xl,notinstalled,2020,asnew,gas,93,3,198,true,,,true,,,1,1,
-9155439,9155439,houseunit,houseunit,noprice,forsale,4840,xl,notinstalled,2020,asnew,gas,81,3,180,,,,true,,,1,1,
-9155442,9155442,houseunit,houseunit,noprice,forsale,4840,xl,notinstalled,2020,asnew,gas,92,3,198,true,,,true,,,1,1,
-9155440,9155440,houseunit,houseunit,noprice,forsale,4840,xl,notinstalled,2020,asnew,gas,83,3,198,,,,true,,,1,1,
-9155443,9155443,houseunit,houseunit,noprice,forsale,4840,xl,notinstalled,2020,asnew,gas,94,3,293,,,,true,,,1,1,
