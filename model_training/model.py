@@ -7,7 +7,7 @@ import joblib
 '''
 Dropping unnesecary columns
 '''
-df = pd.read_csv("cleaned.csv")
+df = pd.read_csv("./model_training/cleaned.csv")
 df = df[df["price"]<=1000000]
 df = df.drop(["Unnamed: 0","id","type","subtype","Bedroom 4 surface","Bedroom 5 surface","Surface of the plot","Garden","Garden orientation"],axis=1,errors="ignore")
 
@@ -49,6 +49,6 @@ y_rfr=regressor.predict(X_test)
 '''
 Saving the encoders and the regressor to files
 '''
-joblib.dump(encoder_energy,"encoder_energy.joblib")
-joblib.dump(encoder_province,'encoder_province.joblib')
-joblib.dump(regressor,"regressor.joblib")
+joblib.dump(encoder_energy,"./api/preprocessing/encoder_energy.joblib")
+joblib.dump(encoder_province,'./api/preprocessing/encoder_province.joblib')
+joblib.dump(regressor,"./api/model/regressor.joblib")
