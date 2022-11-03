@@ -1,14 +1,30 @@
-from fastapi import FastAPI, Request
+from flask import Flask, request
 import joblib
+from preprocessing.preprocess import preprocess
 
-app = FastAPI()
 
-@app.get('/')
-def root():
-    return("alive")
+app = Flask(__name__)
+regressor = joblib.load('./api/model/regressor.joblib')
+@app.route('/')
+def alive():
+   return 'Alive and kicking'
 
-@app.post('/predict')
-def predict(request: Request):
-    encoder = joblib.load('./preprocessing/encoder_energy.joblib')
-    input_file = request.json()
-    return encoder
+@app.route('/predict',methods=["GET","POST"])
+def predict():
+    if request.method == "GET":
+        return 'This is house price predictor'
+    elif request.method == "POST":
+        input_json = request.get_json(force=True)
+        cleaned_json = preprocess(input_json)
+        #print(cleaned_json)
+        prediction = regressor.predict(cleaned_json)
+        prediction = str(prediction)
+        prediction = prediction.strip("[].")   
+        
+        return {"predicted_price":float(prediction)}
+    else:
+        return {"error":"Use POST method to send json"}
+
+
+if __name__ == '__main__':
+   app.run(port=5000,debug=True)

@@ -14,7 +14,7 @@ df = df.drop(["Unnamed: 0","id","type","subtype","Bedroom 4 surface","Bedroom 5 
 df["Bathrooms"].fillna(1,inplace=True)
 df["Double glazing"].fillna(0,inplace=True)
 
-data = df.drop(["Living room surface","Kitchen surface","Bedroom 1 surface","Bedroom 2 surface","Bedroom 3 surface","Terrace surface","Street frontage width",
+data = df.drop(["zip","Living room surface","Kitchen surface","Bedroom 1 surface","Bedroom 2 surface","Bedroom 3 surface","Terrace surface","Street frontage width",
                 "Energy class","Double glazing","Jacuzzi","Sauna"],axis=1,errors="ignore")
 
 '''
@@ -52,3 +52,5 @@ Saving the encoders and the regressor to files
 joblib.dump(encoder_energy,"./api/preprocessing/encoder_energy.joblib")
 joblib.dump(encoder_province,'./api/preprocessing/encoder_province.joblib')
 joblib.dump(regressor,"./api/model/regressor.joblib")
+
+print(X.columns)
