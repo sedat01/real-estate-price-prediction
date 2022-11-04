@@ -155,15 +155,11 @@ def explorer(province,province1,start=0, number_links="max", selenium=False):
         Parallel(n_jobs=-3, require="sharedmem", verbose=10)(
             delayed(explore_property)(url, selenium) for url in url_list)
 
-    #print(id_data)
-    #print(type(id_data))
+    
     df1 = pd.DataFrame.from_dict(id_data, orient="index")
     df1.to_csv(f"from_json_{province}.csv")
     df2 = pd.DataFrame.from_dict(data_all_tables, orient="index")
     df2.to_csv(f"from_tables_{province}.csv")
     df1 = pd.concat([df1, df2], axis=1)
-    # df = df.drop(columns="id")
-    # df = df[columns_json]
-    # df = df[df.price !="noprice"]
     df1.to_csv(f"data_all_{province}.csv")
     return id_data,data_all_tables
