@@ -16,6 +16,9 @@ df["Double glazing"].fillna(0,inplace=True)
 
 data = df.drop(["zip","Living room surface","Kitchen surface","Bedroom 1 surface","Bedroom 2 surface","Bedroom 3 surface","Terrace surface","Street frontage width",
                 "Energy class","Double glazing","Jacuzzi","Sauna"],axis=1,errors="ignore")
+print(data["Province"].unique())
+data["Province"].replace("East Falnders","East Flanders",inplace=True)
+print(data["Province"].unique())
 
 '''
 Encoding categorical features

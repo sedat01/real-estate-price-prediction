@@ -7,8 +7,6 @@ def preprocess(input_json):
     encoder_energy = joblib.load('./api/preprocessing/encoder_energy.joblib')
     encoder_province = joblib.load('./api/preprocessing/encoder_province.joblib')
     data = pd.DataFrame.from_dict(input_json,orient="index")
-    #print(data.shape)
-    #print(data["energy_heatingType"].to_numpy().reshape(-1,1))
     
     energy_type = encoder_energy.transform(data["energy_heatingType"].to_numpy().reshape(-1,1))
     province = encoder_province.transform(data["Province"].to_numpy().reshape(-1,1))
