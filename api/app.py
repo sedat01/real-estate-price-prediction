@@ -97,7 +97,7 @@ Example JSON:</br>
 
 {"0":{</br>
  "kitchen_type":0,</br>
-"building_condition":0,
+"building_condition":0,</br>
 "certificates_primaryEnergyConsumptionLevel":250,</br>
  "bedroom_count":3,</br>
 "land_surface":200,</br>
@@ -112,8 +112,11 @@ Example JSON:</br>
 "Bathrooms":1,</br>
 "Toilets":1,</br>
 "energy_heatingType":"gas",</br>
-  "Province":"East Flanders"</br>
+  "Province":"East Flanders"}}</br>
   </br>
+  The initial "0" is required in order to orient the data frame in the correct order
+  
+  
   Kitchen type can be 0,1,2,3 where 0 i unequipped, 1 - semiequiped, 2 - equiped, 3 - hyperequiped</br>
   Building condition can be 0,1,2 where 0 - needs major renovation, 1 - good or need minor things like paint, 2 - as new</br>
   Certificates_primaryEnergyConsumptionLevel is the EPC figure in kW/m2</br>
@@ -123,7 +126,7 @@ Example JSON:</br>
   
   
   
-}}'''
+'''
 
 regressor = joblib.load('./api/model/regressor.joblib')
 @app.route('/')
